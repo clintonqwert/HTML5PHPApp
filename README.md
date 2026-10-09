@@ -1,4 +1,7 @@
 # HTML5 PHP App
+
+> **Archived.** I forked this from [shenshawvfs/HTML5PHPApp](https://github.com/shenshawvfs/HTML5PHPApp) in 2018 and no longer maintain it. My current work is at [clintonramonida.ca](https://clintonramonida.ca) and [github.com/clintonqwert](https://github.com/clintonqwert).
+
 A full HTML5 Web App with a PHP based AJAX server that works as a 
 base template for HTML5/CSS3 app using jQuery.Update and go. Client & PHP Server.
 
